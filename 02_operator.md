@@ -1,4 +1,4 @@
-## 벨로퍼트와 함께 공부하는 모던 자바스크립트 공부 연산자
+## 연산자
 
 ### 연산자 
 
@@ -145,54 +145,4 @@ const a = '안녕';
 const b = '하세요';
 console.log(a+b); //안녕하세요 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-참조:https://github.com/velopert/learnjs
+출처:https://github.com/velopert/learnjs

@@ -1,4 +1,4 @@
-## 벨로퍼트와 함께 공부하는 모던 자바스크립트 공부 변수와 상수
+## 변수와 상수
 
 #### 선언: 특정 이름에 특정 값을 설정하는 것 
 + let value = 1;
@@ -48,15 +48,4 @@ let loading = false;
             우리가 설정하지 않았기 때문에 없는 값을 의미합니다.
 
 
-
-
-
-
-
-
-
-
-
-
-
-참조:https://github.com/velopert/learnjs
+출처:https://github.com/velopert/learnjs

@@ -111,6 +111,26 @@ i 가 2 일땐 continue 를 하여 원래 console.log 를 해야 하지만 그 �
 
 i 가 5 일땐 break 를하여 반복문을 종료시킵니다.
 
+### 연습
+```javascript
+function sumOf(numbers){
+  let sum = 0;
+  for(let i = 0; i < numbers.length; i++){
+    sum += numbers[i];
+  }
+  return sum;
+}
+const result = sumOf([1 , 2, 3, 4, 5]);
+console.log(result);
+```
+
+
+
+
+
+
+
+
 
 
 
